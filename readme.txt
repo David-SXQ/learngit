@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git test.
 git m1
 git m2
+commit Id test
